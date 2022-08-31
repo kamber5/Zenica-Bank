@@ -1,0 +1,29 @@
+Ime klijenta: Amar
+Prezime klijenta: Kamberovic
+JMBG klijenta: 123134124
+Da li je klijent zaposlen: Da
+Klijent ima 12 godina radnog staza 
+Datum sklopljenog ugovora:	13.1.2022.		
+Vrijeme sklopljenog ugovora: 19:35:36
+Iznos kredita: 20000
+Klijent ce vratiti ukupno: 140000 KM na: 12 rata
+
+Ime klijenta: Orhan
+Prezime klijenta: Pojskic
+JMBG klijenta: 1255125
+Da li je klijent zaposlen: Da
+Klijent ima 12 godina radnog staza 
+Datum sklopljenog ugovora:	13.1.2022.		
+Vrijeme sklopljenog ugovora: 19:36:19
+Iznos kredita: 24412
+Klijent ce vratiti ukupno: 195296 KM na: 14 rata
+
+Ime klijenta: Amar
+Prezime klijenta: Kamberovic
+JMBG klijenta: 123456778
+Da li je klijent zaposlen: Da
+Klijent ima 5 godina radnog staza 
+Datum sklopljenog ugovora:	21.1.2022.		
+Vrijeme sklopljenog ugovora: 14:5:59
+Iznos kredita: 20000
+Klijent ce vratiti ukupno: 22000 KM na: 2 rata
